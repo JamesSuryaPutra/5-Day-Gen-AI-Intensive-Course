@@ -1,5 +1,7 @@
 # 5 Day Gen-AI Intensive Course with Kaggle
-## Welcome to our 5-Day AI Agents Intensive Course with Google!
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/8b736216-d7de-43ec-95ac-0ac9a74a86fb" />
+
+Welcome to our 5-Day AI Agents Intensive Course with Google!
 
 # What is the 5-Day AI Agents Intensive?
 This 5-day online course was crafted by Google’s ML researchers and engineers to help developers explore the foundations and practical applications of AI agents. You’ll learn the core components – models, tools, orchestration, memory and evaluation. Finally, you’ll discover how agents move beyond LLM prototypes to become production-ready systems.
